@@ -17,9 +17,9 @@ When you have completed the challenge, head to [this repository](https://github.
 
 Santa is delivering presents to an infinite two-dimensional grid of houses.
 
-He begins by delivering a present to the house at his starting location, and then an elf traffic controller at the North Pole tells him where to move next. The elf consults it's XFacts software \(Courtesy of Altranmas Corp.\) to determine a suitable direction for Santa to move his sleigh. Moves are always exactly one house to the north \(^\), south \(v\), east \(>\), or west \(<\). After each move, Santa delivers another present to the house at his new location.
+He begins by delivering a present to the house at his starting location, and then an elf traffic controller at the North Pole tells him where to move next. The elf consults it's Claus-Sight software \(Courtesy of Altranmas Corp.\) to determine a suitable direction for Santa to move his sleigh. Moves are always exactly one house to the north \(^\), south \(v\), east \(>\), or west \(<\). After each move, Santa delivers another present to the house at his new location.
 
-However, unbeknownst to Santa or the elf traffic controller, there is a critical bug in the software and so the directions are a little off... Santa ends up visiting some houses more than once. How many houses receive at least one present?
+However, unbeknownst to Santa or the elf traffic controller, there is a fault in the software and so the directions are a little off... Santa ends up visiting some houses more than once. How many houses receive at least one present?
 
 For example:
 
@@ -32,7 +32,7 @@ For example:
 ## Part Two
 The next year, to speed up the process, Santa hires an apprentice, Neil, to deliver presents with him.
 
-Santa and Neil start at the same location (delivering two presents to the same starting house), then take turns moving based on instructions from the elf traffic controller, who is still using the same buggy software as the previous year.
+Santa and Neil start at the same location (delivering two presents to the same starting house), then take turns moving based on instructions from the elf traffic controller, who hasn't upgraded to the rectification build and is still using the same erroneous software as the previous year.
 
 This year, how many houses receive at least one present?
 
