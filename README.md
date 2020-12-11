@@ -7,7 +7,7 @@ Clone this repository and run the generate_input.py script with your name as fol
 python generate_input.py --name <Your Name Here>
 ```
 
-Make sure you are using python 3. If you don't have python 3, contact me and I can generate an input for you.
+You can use any language you like to take part. However, make sure you are using python 3 to generate the input. If you don't have python 3, contact me and I can generate an input for you.
 
 When you have completed the challenge, head to [this repository](https://github.com/rej696/altranmas2020-answers) to generate your answer.
 
